@@ -35,6 +35,10 @@
     align-items: center;
 }
 
+.txt-c{
+    text-align: center;
+}
+
 .blue{
     background-color:#b9ddff;
 }
@@ -114,4 +118,10 @@ header{
     align-items: center;
     padding:20px;
 
+}
+.sec3-div{
+    flex-direction: column;
+}
+.cirle-div{
+    border-radius: 50%;
 }
