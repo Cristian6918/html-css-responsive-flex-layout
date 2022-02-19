@@ -133,3 +133,17 @@ header{
 .circle-div{
     border-radius: 50%;
 }
+
+.bottom-txt{
+    font-size:10px;
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+footer div{
+    margin:auto;
+}
