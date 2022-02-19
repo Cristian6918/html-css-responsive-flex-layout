@@ -20,12 +20,19 @@
     width: 30%;
 }
 
-.pad10{
-    padding:10px;
+.pad20{
+    padding:20px;
 }
 
 .flex{
     display: flex;
+}
+
+.column{
+    flex-direction:column;
+}
+.al-items-c{
+    align-items: center;
 }
 
 .blue{
@@ -45,6 +52,12 @@
 }
 .lightviolet{
     background-color: #d5d4f4;
+}
+.violet{
+    background-color: #9692e6;
+}
+.white{
+    background-color: white;;
 }
 
 .brd-rd40{
